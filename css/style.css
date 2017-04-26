@@ -1,4 +1,8 @@
-
 #main-menu {
-  background-image: url(css/style.css);
+  background-image: url(../img/BG.png);
+  z-index: 2;
+}
+
+#navbar-menu {
+  z-index: -1
 }
