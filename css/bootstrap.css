@@ -5,6 +5,10 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /*! normalize.css v5.0.0 | MIT License | github.com/necolas/normalize.css */
+#main-menu {
+  background-color: yellow;
+}
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
@@ -14,6 +18,7 @@ html {
 
 body {
   margin: 0;
+  background-color: yellow;
 }
 
 article,
